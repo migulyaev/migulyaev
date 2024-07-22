@@ -1,5 +1,5 @@
 ### Hi, I'm Mike 👋
-Android Engineer with over 4 years of experience working in both big corporations and startups. Passion about new technologies and creating apps with modern and responsive interfaces.
+Android Engineer with over 5 years of experience working in both big corporations and startups. Passion about new technologies and creating apps with modern and responsive interfaces.
 
 ### 🔭 I’m currently working on
 Letro: https://github.com/relaycorp/letro-android
