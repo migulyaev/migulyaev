@@ -2,7 +2,7 @@
 Android Engineer with over 5 years of experience working in both big corporations and startups. Passion about new technologies and creating apps with modern and responsive interfaces.
 
 ### 🔭 I’m currently working on
-Letro: https://github.com/relaycorp/letro-android
+[Monzo bank](https://monzo.com/) (UK)
 
 ### 📫 How to reach me
 Email: mgulyaev2702@gmail.com | [LinkedIn](https://www.linkedin.com/in/migulyaev/)
